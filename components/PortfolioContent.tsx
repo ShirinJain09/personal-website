@@ -164,7 +164,7 @@ const PortfolioContent: React.FC = () => {
               className="group border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden hover:border-primary transition-all duration-300 cursor-pointer bg-white dark:bg-slate-900 hover:shadow-xl hover:shadow-primary/5"
             >
               <div className="h-40 md:h-48 bg-slate-100 dark:bg-slate-800 relative overflow-hidden">
-                <img className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" alt={proj.title} src={proj.imageUrl}/>
+                <img className="w-full h-full object-contain group-hover:scale-105 transition-transform duration-500" alt={proj.title} src={proj.imageUrl}/>
                 <div className="absolute inset-0 bg-primary/10 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
                   <span className="bg-white/90 dark:bg-slate-900/90 px-3 py-1.5 rounded-full text-[10px] font-bold text-primary shadow-lg scale-90 group-hover:scale-100 transition-transform">
                     EXPLORE PROJECT
