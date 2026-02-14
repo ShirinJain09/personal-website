@@ -31,7 +31,7 @@ const projects: ProjectItem[] = [
     title: 'Project: DoorDash Case Study',
     description: 'A detailed study on what I believe DoorDash should focus on in the near future, focusing on expansion into non-food categories.',
     tags: ['Product Sense', 'Case Study'],
-    imageUrl: 'https://1000logos.net/wp-content/uploads/2021/06/DoorDash-logo.png',
+    imageUrl: 'https://cdn.brandfetch.io/idrVhdDocf/w/800/h/96/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B',
     linkUrl: 'https://drive.google.com/file/d/1tkRZrZIL8tGUManyxiKGAucDAUgA5syA/view?usp=sharing'
   },
   {
