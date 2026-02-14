@@ -38,7 +38,7 @@ const projects: ProjectItem[] = [
     title: 'Bruin Ventures',
     description: 'Bruin Ventures is a 501(c)(3) non-profit organization and the premier student-led venture capital and technology club at UCLA, fostering startup culture on campus since 2016.',
     tags: ['Venture Capital', 'Leadership'],
-    imageUrl: 'https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&q=80&w=800',
+    imageUrl: 'https://media.licdn.com/dms/image/v2/D4E1BAQGf0hzj9CxhVg/company-background_10000/company-background_10000/0/1659568405773/bruinventures_cover?e=2147483647&v=beta&t=zJcIcCvLbZrJaocMbbB3mLrAjN4-TlHaA_sl8G4HlAI',
     linkUrl: 'https://www.uclabv.com/'
   }
 ];
